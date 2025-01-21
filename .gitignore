@@ -2,4 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-/R/plotter_sandbox.R
+./R/plotter_sandbox.R
+./R/iterative_plotting.R
+./plots
+oncoPlotter.Rproj
